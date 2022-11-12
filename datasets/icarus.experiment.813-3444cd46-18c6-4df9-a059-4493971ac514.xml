@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-11-11T00:31:03-07:00</gco:DateTime>
+        <gco:DateTime>2022-11-12T00:31:45-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -331,7 +331,7 @@ Temperature: 21</gco:CharacterString>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_a6e8f1f2-52da-410b-bcdd-614d4c6d2a59">
+                                <gml:TimePeriod gml:id="tp_46404cee-b528-4b2a-aec4-a2ba25c39974">
                                     <gml:beginPosition>2021-06-17</gml:beginPosition>
                                     <gml:endPosition>2021-06-17</gml:endPosition>
                                 </gml:TimePeriod>
