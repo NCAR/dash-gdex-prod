@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-11-30T00:29:20-07:00</gco:DateTime>
+        <gco:DateTime>2022-12-01T00:25:35-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -65,18 +65,41 @@
         <gco:CharacterString>https://doi.org/10.5065/ftr3-jv79</gco:CharacterString>
     </gmd:dataSetURI>
 
+    <gmd:metadataExtensionInfo>
+        <gmd:MD_MetadataExtensionInformation>
+            <gmd:extensionOnLineResource>
+                <gmd:CI_OnlineResource>
+                    <gmd:linkage>
+                        <gmd:URL>https://dx.doi.org/10.1073/pnas.2202857119</gmd:URL>
+                    </gmd:linkage>
+                    <gmd:protocol>
+                        <gco:CharacterString>https</gco:CharacterString>
+                    </gmd:protocol>
+                    <gmd:applicationProfile>
+                        <gco:CharacterString>browser</gco:CharacterString>
+                    </gmd:applicationProfile>
+                    <gmd:name>
+                        <gco:CharacterString>Publication</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:description>
+                        <gco:CharacterString>Sulfur radical formation from the tropospheric irradiation of aqueous sulfate aerosols</gco:CharacterString>
+                    </gmd:description>
+                </gmd:CI_OnlineResource>
+            </gmd:extensionOnLineResource>
+        </gmd:MD_MetadataExtensionInformation>
+    </gmd:metadataExtensionInfo>
 
     <gmd:identificationInfo>
         <gmd:MD_DataIdentification>
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>ICARUS Chamber Experiment: Nguyen Group_20211203_None_N/A</gco:CharacterString>
+                        <gco:CharacterString>ICARUS Chamber Experiment: Nguyen Group_20211203_None_No Seed</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-08</gco:Date>
+                                <gco:Date>2022-11-30</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-12-08</gco:Date>
+                                <gco:Date>2022-11-30</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -154,7 +177,7 @@ Oxidant: None
 Reaction Type: Non-chemical
 Relative Humidity: 85
 Temperature: 20-22
-Seed Name: N/A
+Seed Name: No Seed
 Pressure: 755 Torr</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
@@ -332,7 +355,7 @@ Pressure: 755 Torr</gco:CharacterString>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_0503be45-d83e-4639-b4aa-7069705f8043">
+                                <gml:TimePeriod gml:id="tp_055904df-17bb-43f3-8747-44e1c315c57c">
                                     <gml:beginPosition>2021-12-03</gml:beginPosition>
                                     <gml:endPosition>2021-12-03</gml:endPosition>
                                 </gml:TimePeriod>
@@ -383,7 +406,7 @@ Pressure: 755 Torr</gco:CharacterString>
                                 <gco:CharacterString>browser</gco:CharacterString>
                             </gmd:applicationProfile>
                             <gmd:name>
-                                <gco:CharacterString>ICARUS Chamber Experiment: Nguyen Group_20211203_None_N/A</gco:CharacterString>
+                                <gco:CharacterString>ICARUS Chamber Experiment: Nguyen Group_20211203_None_No Seed</gco:CharacterString>
                             </gmd:name>
                             <gmd:description>
                                 <gco:CharacterString>Metadata Link</gco:CharacterString>

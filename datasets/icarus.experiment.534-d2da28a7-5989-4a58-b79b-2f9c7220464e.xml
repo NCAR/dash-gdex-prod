@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-11-30T00:15:33-07:00</gco:DateTime>
+        <gco:DateTime>2022-12-01T00:13:50-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -65,18 +65,41 @@
         <gco:CharacterString>https://doi.org/10.5065/8v2d-y796</gco:CharacterString>
     </gmd:dataSetURI>
 
+    <gmd:metadataExtensionInfo>
+        <gmd:MD_MetadataExtensionInformation>
+            <gmd:extensionOnLineResource>
+                <gmd:CI_OnlineResource>
+                    <gmd:linkage>
+                        <gmd:URL>https://dx.doi.org/10.1021/acs.est.1c04177</gmd:URL>
+                    </gmd:linkage>
+                    <gmd:protocol>
+                        <gco:CharacterString>https</gco:CharacterString>
+                    </gmd:protocol>
+                    <gmd:applicationProfile>
+                        <gco:CharacterString>browser</gco:CharacterString>
+                    </gmd:applicationProfile>
+                    <gmd:name>
+                        <gco:CharacterString>Publication</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:description>
+                        <gco:CharacterString>Gas-Phase Oxidation Rates and Products of 1,2-Dihydroxy Isoprene</gco:CharacterString>
+                    </gmd:description>
+                </gmd:CI_OnlineResource>
+            </gmd:extensionOnLineResource>
+        </gmd:MD_MetadataExtensionInformation>
+    </gmd:metadataExtensionInfo>
 
     <gmd:identificationInfo>
         <gmd:MD_DataIdentification>
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>ICARUS Chamber Experiment: Nguyen Group_20210114_2-methylbut-3-ene-1,2-diol/hydrogen peroxide/AMMONIUM SULFATE_Hydroxyl radical_Ammonium sulfate</gco:CharacterString>
+                        <gco:CharacterString>ICARUS Chamber Experiment: Nguyen Group_20210114_2-Methylbut-3-ene-1,2-diol/Hydrogen Peroxide_Hydroxyl radical_Ammonium sulfate</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-11-27</gco:Date>
+                                <gco:Date>2022-11-30</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-11-27</gco:Date>
+                                <gco:Date>2022-11-30</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -151,7 +174,7 @@ Chamber: Tran&apos;s big bag of air
 
 Experiment Category: Gas phase chemical reaction, Aerosol formation
 Oxidant: Hydroxyl radical
-Reactants: 2-methylbut-3-ene-1,2-diol, hydrogen peroxide
+Reactants: 2-Methylbut-3-ene-1,2-diol, Hydrogen Peroxide
 Reaction Type: Photooxidation
 Relative Humidity: 50
 Temperature: 22
@@ -333,7 +356,7 @@ Pressure: 755</gco:CharacterString>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_9b5814c2-687b-401f-b3cc-fe58a822fc25">
+                                <gml:TimePeriod gml:id="tp_9d2022ad-87f5-4e93-acd2-9deb2680a713">
                                     <gml:beginPosition>2021-01-14</gml:beginPosition>
                                     <gml:endPosition>2021-01-14</gml:endPosition>
                                 </gml:TimePeriod>
@@ -384,7 +407,7 @@ Pressure: 755</gco:CharacterString>
                                 <gco:CharacterString>browser</gco:CharacterString>
                             </gmd:applicationProfile>
                             <gmd:name>
-                                <gco:CharacterString>ICARUS Chamber Experiment: Nguyen Group_20210114_2-methylbut-3-ene-1,2-diol/hydrogen peroxide/AMMONIUM SULFATE_Hydroxyl radical_Ammonium sulfate</gco:CharacterString>
+                                <gco:CharacterString>ICARUS Chamber Experiment: Nguyen Group_20210114_2-Methylbut-3-ene-1,2-diol/Hydrogen Peroxide_Hydroxyl radical_Ammonium sulfate</gco:CharacterString>
                             </gmd:name>
                             <gmd:description>
                                 <gco:CharacterString>Metadata Link</gco:CharacterString>
