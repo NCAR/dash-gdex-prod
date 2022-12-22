@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-12-21T00:34:58-07:00</gco:DateTime>
+        <gco:DateTime>2022-12-22T00:34:52-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-10-04</gco:Date>
+                                <gco:Date>2022-12-21</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-10-03</gco:Date>
+                                <gco:Date>2022-12-20</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -178,6 +178,14 @@ This data set accompanies JEDI-SkyLab, version 2.0.0, released in October 2022.<
                 <gmd:MD_Format>
                     <gmd:name>
                         <gco:CharacterString>Gzip Compressed Archive (application/gzip)</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:version gco:nilReason="unknown"/>
+                </gmd:MD_Format>
+            </gmd:resourceFormat>
+            <gmd:resourceFormat>
+                <gmd:MD_Format>
+                    <gmd:name>
+                        <gco:CharacterString>application/x-tar</gco:CharacterString>
                     </gmd:name>
                     <gmd:version gco:nilReason="unknown"/>
                 </gmd:MD_Format>
@@ -302,7 +310,7 @@ This data set accompanies JEDI-SkyLab, version 2.0.0, released in October 2022.<
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_880a002e-8293-445a-99a6-cebd73536a9d">
+                                <gml:TimePeriod gml:id="tp_355cae61-3021-4bd9-8f46-3d2f0b6bd3e8">
                                     <gml:beginPosition>2020-10-01</gml:beginPosition>
                                     <gml:endPosition>2020-10-01</gml:endPosition>
                                 </gml:TimePeriod>
@@ -329,6 +337,14 @@ This data set accompanies JEDI-SkyLab, version 2.0.0, released in October 2022.<
                 <gmd:MD_Format>
                     <gmd:name>
                         <gco:CharacterString>Gzip Compressed Archive (application/gzip)</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:version gco:nilReason="unknown"/>
+                </gmd:MD_Format>
+            </gmd:distributionFormat>
+            <gmd:distributionFormat>
+                <gmd:MD_Format>
+                    <gmd:name>
+                        <gco:CharacterString>application/x-tar</gco:CharacterString>
                     </gmd:name>
                     <gmd:version gco:nilReason="unknown"/>
                 </gmd:MD_Format>
