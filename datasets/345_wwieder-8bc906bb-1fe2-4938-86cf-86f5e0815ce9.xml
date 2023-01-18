@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2023-01-17T00:00:29-07:00</gco:DateTime>
+        <gco:DateTime>2023-01-18T00:00:29-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -122,7 +122,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-11-16</gco:Date>
+                                <gco:Date>2023-01-17</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -132,7 +132,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-11-14</gco:Date>
+                                <gco:Date>2023-01-14</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -244,11 +244,10 @@
             <gmd:abstract>
                 <gco:CharacterString>Input data, evaluation data, and results from integrating National Ecological Observatory Network (NEON) measurements into single point simulations using the Community Terrestrial Systems Model (CTSM).
 
-The input data atmosphere data (datm) includes NEON meteorological measurements that provide boundary conditions for CTSM simulations. The evaluation data (eval) includes NEON eddy covariance flux data measured at each tower site, which includes energy, water vapor, and CO2 fluxes that at are time regularized with quality assurance and control flags applied. Finally, CTSM model results (ctsm) include monthly and daily history files of select variables simulated by the model at each NEON site. Additional miscellaneous data products (misc) with site information is also provided.</gco:CharacterString>
+The input data atmosphere data (datm) includes NEON meteorological measurements that provide boundary conditions for CTSM simulations. The evaluation data (eval) includes NEON eddy covariance flux data measured at each tower site, which includes energy, water vapor, and CO2 fluxes that at are time regularized with quality assurance and control flags applied. Finally, CTSM model results (ctsm) include monthly and daily history files of select variables simulated by the model at each NEON site. Additional miscellaneous data products (misc) with site information is also provided.
+
+These v2 data were created because we found errors in the values for latitude and longitude of&amp;nbsp;NEON sites&amp;nbsp;tower sites that were being used in CTSM simulations at the following four site: ONAQ, BLAN, ORNL, UNDE.  These errors were corrected and sites rerun, with corrected data published here.&amp;nbsp;</gco:CharacterString>
             </gmd:abstract>
-            <gmd:credit>
-                <gco:CharacterString>This material is based upon work supported by the National Center for Atmospheric Research, which is a major facility sponsored by the National Science Foundation (NSF) under Cooperative Agreement No. 1852977 with additional support from NSF award number 2039932. The National Ecological Observatory Network is a program sponsored by the NSF and operated under cooperative agreement by Battelle.</gco:CharacterString>
-            </gmd:credit>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
                     <gmd:individualName>
@@ -436,7 +435,7 @@ The input data atmosphere data (datm) includes NEON meteorological measurements 
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_d5c4055f-634d-4a1f-8ab0-0d8f72b506a1">
+                                <gml:TimePeriod gml:id="tp_4b90b1cf-ba54-453f-860c-170155e82379">
                                     <gml:beginPosition>2018-01-01</gml:beginPosition>
                                     <gml:endPosition>2022-03-31</gml:endPosition>
                                 </gml:TimePeriod>
