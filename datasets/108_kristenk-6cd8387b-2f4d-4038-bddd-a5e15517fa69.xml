@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2023-01-19T00:00:02-07:00</gco:DateTime>
+        <gco:DateTime>2023-01-20T00:00:07-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -251,7 +251,7 @@
             <gmd:resourceFormat>
                 <gmd:MD_Format>
                     <gmd:name>
-                        <gco:CharacterString>Hierarchical Data Format File (application/x-hdf)</gco:CharacterString>
+                        <gco:CharacterString>text/plain</gco:CharacterString>
                     </gmd:name>
                     <gmd:version gco:nilReason="unknown"/>
                 </gmd:MD_Format>
@@ -259,7 +259,7 @@
             <gmd:resourceFormat>
                 <gmd:MD_Format>
                     <gmd:name>
-                        <gco:CharacterString>text/plain</gco:CharacterString>
+                        <gco:CharacterString>Hierarchical Data Format File (application/x-hdf)</gco:CharacterString>
                     </gmd:name>
                     <gmd:version gco:nilReason="unknown"/>
                 </gmd:MD_Format>
@@ -415,7 +415,7 @@
             <gmd:distributionFormat>
                 <gmd:MD_Format>
                     <gmd:name>
-                        <gco:CharacterString>Hierarchical Data Format File (application/x-hdf)</gco:CharacterString>
+                        <gco:CharacterString>text/plain</gco:CharacterString>
                     </gmd:name>
                     <gmd:version gco:nilReason="unknown"/>
                 </gmd:MD_Format>
@@ -423,7 +423,7 @@
             <gmd:distributionFormat>
                 <gmd:MD_Format>
                     <gmd:name>
-                        <gco:CharacterString>text/plain</gco:CharacterString>
+                        <gco:CharacterString>Hierarchical Data Format File (application/x-hdf)</gco:CharacterString>
                     </gmd:name>
                     <gmd:version gco:nilReason="unknown"/>
                 </gmd:MD_Format>
