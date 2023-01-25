@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2023-01-24T00:00:02-07:00</gco:DateTime>
+        <gco:DateTime>2023-01-25T00:00:02-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -442,7 +442,7 @@ There are four Weather Research and Forecasting (WRF) model simulations consisti
             <gmd:distributionFormat>
                 <gmd:MD_Format>
                     <gmd:name>
-                        <gco:CharacterString>Hierarchical Data Format File (application/x-hdf)</gco:CharacterString>
+                        <gco:CharacterString>text/plain</gco:CharacterString>
                     </gmd:name>
                     <gmd:version gco:nilReason="unknown"/>
                 </gmd:MD_Format>
@@ -450,7 +450,7 @@ There are four Weather Research and Forecasting (WRF) model simulations consisti
             <gmd:distributionFormat>
                 <gmd:MD_Format>
                     <gmd:name>
-                        <gco:CharacterString>text/plain</gco:CharacterString>
+                        <gco:CharacterString>Hierarchical Data Format File (application/x-hdf)</gco:CharacterString>
                     </gmd:name>
                     <gmd:version gco:nilReason="unknown"/>
                 </gmd:MD_Format>
