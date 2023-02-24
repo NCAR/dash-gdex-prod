@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2023-02-23T00:42:58-07:00</gco:DateTime>
+        <gco:DateTime>2023-02-24T00:38:15-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -427,7 +427,7 @@ Seed Name: No Seed</gco:CharacterString>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_b139128f-f6ba-4407-b912-8ff6ba940745">
+                                <gml:TimePeriod gml:id="tp_a982dbde-a555-4fa0-82db-dea5557fa029">
                                     <gml:beginPosition>2022-08-01</gml:beginPosition>
                                     <gml:endPosition>2022-08-01</gml:endPosition>
                                 </gml:TimePeriod>
