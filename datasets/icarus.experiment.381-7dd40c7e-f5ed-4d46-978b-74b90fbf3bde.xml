@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-11-27T09:01:26-07:00</gco:DateTime>
+        <gco:DateTime>2023-08-01T02:09:31-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-11-27</gco:Date>
+                                <gco:Date>2023-08-01</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-11-27</gco:Date>
+                                <gco:Date>2023-08-01</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -182,7 +182,7 @@ Seed Name: Ammonium sulfate + Sulfuric acid</gco:CharacterString>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
                     <gmd:individualName>
-                        <gco:CharacterString>Masoud, Catherine</gco:CharacterString>
+                        <gco:CharacterString>Hildebrandt Ruiz, Lea</gco:CharacterString>
                     </gmd:individualName>
                     <gmd:organisationName>
                         <gco:CharacterString>Hildebrandt Ruiz Lab</gco:CharacterString>
@@ -192,7 +192,7 @@ Seed Name: Ammonium sulfate + Sulfuric acid</gco:CharacterString>
                             <gmd:address>
                                 <gmd:CI_Address>
                                     <gmd:electronicMailAddress>
-                                        <gco:CharacterString>catgrm@utexas.edu</gco:CharacterString>
+                                        <gco:CharacterString>lhr@che.utexas.edu</gco:CharacterString>
                                     </gmd:electronicMailAddress>
                                 </gmd:CI_Address>
                             </gmd:address>
@@ -354,7 +354,7 @@ Seed Name: Ammonium sulfate + Sulfuric acid</gco:CharacterString>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_7392e248-ce91-4fd9-a9eb-188dc2c2699b">
+                                <gml:TimePeriod gml:id="tp_d61adeae-361d-4044-9ade-ae361d40440f">
                                     <gml:beginPosition>2017-06-17</gml:beginPosition>
                                     <gml:endPosition>2017-06-17</gml:endPosition>
                                 </gml:TimePeriod>
