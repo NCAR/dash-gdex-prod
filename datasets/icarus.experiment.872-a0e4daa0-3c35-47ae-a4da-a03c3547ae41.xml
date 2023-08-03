@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2023-08-01T02:28:56-06:00</gco:DateTime>
+        <gco:DateTime>2023-08-02T02:29:36-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2023-08-01</gco:Date>
+                                <gco:Date>2023-08-02</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2023-08-01</gco:Date>
+                                <gco:Date>2023-08-02</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -337,7 +337,7 @@ Pressure: approx 1 atm</gco:CharacterString>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_86788387-5217-413b-b883-875217913bf2">
+                                <gml:TimePeriod gml:id="tp_10dd1f11-9ef3-4490-9d1f-119ef3c4906c">
                                     <gml:beginPosition>2022-05-25</gml:beginPosition>
                                     <gml:endPosition>2022-05-25</gml:endPosition>
                                 </gml:TimePeriod>
