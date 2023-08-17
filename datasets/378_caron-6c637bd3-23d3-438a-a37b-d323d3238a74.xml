@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2023-06-05T17:46:45-06:00</gco:DateTime>
+        <gco:DateTime>2023-08-16T11:54:06-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -71,12 +71,12 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>Data for manuscript &quot;Modes of Variability in the Energy Exascale and Community Earth System Models&quot;</gco:CharacterString>
+                        <gco:CharacterString>Data for manuscript &quot;Modes of Variability in E3SM and CESM Large Ensembles&quot;</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2023-06-05</gco:Date>
+                                <gco:Date>2023-08-16</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2023-05-24</gco:Date>
+                                <gco:Date>2023-08-06</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -190,11 +190,8 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>An adequate characterization of internal modes of climate variability (MoV) is prerequisite for both accurate seasonal predictions and the attribution and detection of forced climate change in nature. Assessing the fidelity of climate models in simulating MoV is therefore vital however doing so is complicated by the large intrinsic variations in MoV and other issues. Large ensembles (LEs) provide a unique opportunity to assess model fidelity and quantify inter-model contrasts in the presence of such variations. In this work, these goals are pursued in recently produced LEs from four models: the Energy Exascale Earth System Models (E3SM) versions 1 and 2, and the Community Earth System Model (CESM) versions 1 and 2. The representation of modes is found to improve across successive E3SM and CESM versions in conjunction with improved simulation of the mean state and annual cycle. The patterns of global coupled modes and many extratropical modes is generally best captured by CESM2, though the spectral power in ENSO is excessive and captured more accurately by E3SM though with unrealistic zonal structure. The results suggest the potential for continued improvement in the representation of MoV with improvements in model physics and the depiction of the base climate state.</gco:CharacterString>
+                <gco:CharacterString>An adequate characterization of internal modes of climate variability (MoV) is prerequisite for both accurate seasonal predictions and the attribution and detection of forced climate change in nature. Assessing the fidelity of climate models in simulating MoV is therefore essential; however, doing so is complicated by the large intrinsic variations in MoV and the limited span of the observational record. Large ensembles (LEs) provide a unique opportunity to assess model fidelity in simulating MoV and quantify inter-model contrasts. In this work, these goals are pursued in four recently produced LEs: the Energy Exascale Earth System Model (E3SM) versions 1 and 2 LEs, and the Community Earth System Model (CESM) versions 1 and 2 LEs. In general, the representation of MoV is found to improve across successive E3SM and CESM versions concurrent with improved simulation of the base state climate. The patterns of global coupled modes and many extratropical modes are well simulated by both E3SM2 and CESM2, though various persistent shortcomings are identified. The results both demonstrate the successes of these recent model versions and suggest the potential for continued improvement in the representation of MoV with advances in model physics.</gco:CharacterString>
             </gmd:abstract>
-            <gmd:credit>
-                <gco:CharacterString>NASA Awards 80NSSC17K0565 and 80NSSC22K0046, and by the Regional and Global Model Analysis (RGMA) component of the Earth and Environmental System Modeling Program of the U.S. Department of Energy&apos;s Office of Biological &amp; Environmental Research (BER) via National Science Foundation IA 1947282. Computing resources (ark:/85065/d7wd3xhc) were provided by the Climate Simulation Laboratory at NCAR&apos;s Computational and Information Systems Laboratory, sponsored by the National Science Foundation and other agencies. The CESM project is supported primarily by the National Science Foundation.</gco:CharacterString>
-            </gmd:credit>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
                     <gmd:individualName>
@@ -223,14 +220,6 @@
                 <gmd:MD_Format>
                     <gmd:name>
                         <gco:CharacterString>application/x-netcdf</gco:CharacterString>
-                    </gmd:name>
-                    <gmd:version gco:nilReason="unknown"/>
-                </gmd:MD_Format>
-            </gmd:resourceFormat>
-            <gmd:resourceFormat>
-                <gmd:MD_Format>
-                    <gmd:name>
-                        <gco:CharacterString>text/plain</gco:CharacterString>
                     </gmd:name>
                     <gmd:version gco:nilReason="unknown"/>
                 </gmd:MD_Format>
@@ -409,7 +398,7 @@
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_d194c1c0-ec20-4f87-94c1-c0ec20af8795">
+                                <gml:TimePeriod gml:id="tp_c6f0af59-7fb9-4153-b0af-597fb9415345">
                                     <gml:beginPosition>1920</gml:beginPosition>
                                     <gml:endPosition>2020</gml:endPosition>
                                 </gml:TimePeriod>
@@ -428,14 +417,6 @@
                 <gmd:MD_Format>
                     <gmd:name>
                         <gco:CharacterString>application/x-netcdf</gco:CharacterString>
-                    </gmd:name>
-                    <gmd:version gco:nilReason="unknown"/>
-                </gmd:MD_Format>
-            </gmd:distributionFormat>
-            <gmd:distributionFormat>
-                <gmd:MD_Format>
-                    <gmd:name>
-                        <gco:CharacterString>text/plain</gco:CharacterString>
                     </gmd:name>
                     <gmd:version gco:nilReason="unknown"/>
                 </gmd:MD_Format>
@@ -468,7 +449,7 @@
                                 <gco:CharacterString>browser</gco:CharacterString>
                             </gmd:applicationProfile>
                             <gmd:name>
-                                <gco:CharacterString>Data for manuscript &quot;Modes of Variability in the Energy Exascale and Community Earth System Models&quot;</gco:CharacterString>
+                                <gco:CharacterString>Data for manuscript &quot;Modes of Variability in E3SM and CESM Large Ensembles&quot;</gco:CharacterString>
                             </gmd:name>
                             <gmd:description>
                                 <gco:CharacterString>Metadata Link</gco:CharacterString>
