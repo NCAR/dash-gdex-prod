@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2023-08-21T16:35:06-06:00</gco:DateTime>
+        <gco:DateTime>2023-08-22T01:50:26-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -331,7 +331,7 @@ Seed Name: Sodium nitrate</gco:CharacterString>
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_f7285e8f-992d-4453-a85e-8f992d745300">
+                                <gml:TimePeriod gml:id="tp_935f1387-3e19-48d7-9f13-873e1948d714">
                                     <gml:beginPosition>2022-05-23</gml:beginPosition>
                                     <gml:endPosition>2022-05-23</gml:endPosition>
                                 </gml:TimePeriod>
