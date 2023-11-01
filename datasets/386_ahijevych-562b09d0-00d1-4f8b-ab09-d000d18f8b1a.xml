@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2023-10-10T13:02:06-06:00</gco:DateTime>
+        <gco:DateTime>2023-11-01T11:46:02-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -71,7 +71,7 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>Landfalling Tropical Cyclones (all_LTC) shear ⨯ motion</gco:CharacterString>
+                        <gco:CharacterString>Landfalling Tropical Cyclones (all_LTC) shear x motion</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
@@ -388,7 +388,7 @@
                                 <gco:CharacterString>browser</gco:CharacterString>
                             </gmd:applicationProfile>
                             <gmd:name>
-                                <gco:CharacterString>Landfalling Tropical Cyclones (all_LTC) shear ⨯ motion</gco:CharacterString>
+                                <gco:CharacterString>Landfalling Tropical Cyclones (all_LTC) shear x motion</gco:CharacterString>
                             </gmd:name>
                             <gmd:description>
                                 <gco:CharacterString>Metadata Link</gco:CharacterString>
