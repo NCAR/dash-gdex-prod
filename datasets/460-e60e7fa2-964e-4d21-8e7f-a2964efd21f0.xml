@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2024-02-14T17:09:17-07:00</gco:DateTime>
+        <gco:DateTime>2024-02-15T14:20:17-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -380,7 +380,7 @@
                             <gmd:extent>
                                 <gml:TimePeriod gml:id="tp_4b6910b1-a59a-426b-a910-b1a59a526b44">
                                     <gml:beginPosition>0100</gml:beginPosition>
-                                    <gml:endPosition>0300</gml:endPosition>
+                                    <gml:endPosition>0400</gml:endPosition>
                                 </gml:TimePeriod>
                             </gmd:extent>
                         </gmd:EX_TemporalExtent>
