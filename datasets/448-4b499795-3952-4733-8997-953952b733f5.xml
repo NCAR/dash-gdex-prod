@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2024-03-31T16:23:36-06:00</gco:DateTime>
+        <gco:DateTime>2024-04-01T21:47:27-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2024-01-05</gco:Date>
+                                <gco:Date>2024-04-01</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2024-01-04</gco:Date>
+                                <gco:Date>2024-03-31</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -174,11 +174,8 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>The dataset includes post-processed model outputs from 2 regional configuration simulations (control and PGW) using the MPAS-A version 8.0.1. This is the first dataset publicly available that uses regional MPAS in combination with the PGW approach to study future climate in short time scales. The Limited-Area domain encompasses 30°S to 51°N and -65°W to 59°E. A 15-km-3-km variable-resolution mesh is used with the 3-km refinement region elliptically shaped. The mesh is rotated 5° to ensure the track of AEWs and the inclusion of the ITCZ, African easterly jet (AEJ), and West African Monsoon (WAM) within the refined region. The refined region is over Africa and parts of the Atlantic. The control experiment was initialized using ERA5 data and lateral boundary conditions were provided hourly. The PGW experiments was initialized with altered initial conditions and lateral boundary conditions were provided hourly employing the PGW method using both perturbed ERA5 and LENS2 data. The dataset can be used to study easterly waves, mesoscale convective systems, African weather, WAM, AEJ, ITCZ, etc during the period simulated. Although the model produces 15-km--3-km horizontal grid outputs, the post-processed outputs available here were interpolated to a 0.25-degree by 0.25-degree latitude-by-longitude grid and 27 isobaric levels (in the vertical). More details of the data and analysis are in preparation to be submitted to Geophysical Research Letters (GRL). The namelist files to run the model, as well as a README file, are also included in this repository.</gco:CharacterString>
+                <gco:CharacterString>The dataset includes post-processed model outputs from regional configuration simulations (control and PGW) using the MPAS-A version 8.0.1. This is the first dataset publicly available that uses regional MPAS in combination with the PGW approach to study future climate in short time scales. The Limited-Area domain encompasses 30°S to 51°N and 3-km horizontal grid outputs, the post-processed outputs available here were interpolated to a 0.25-degree by 0.25-degree latitude-by-longitude grid and 27 isobaric levels (in the vertical). More details of the data and analysis are available in the following preprint submitted for publication in Geophysical Research Letters (GRL): https://essopenarchive.org/doi/pdf/10.22541/essoar.171052487.74353361. The namelist files to run the model, as well as a README file, are also included in this repository.</gco:CharacterString>
             </gmd:abstract>
-            <gmd:credit>
-                <gco:CharacterString>This data was produced while the first author held an NSF NCAR Advanced Study Program Postdoctoral Fellowship. This material is based upon work supported by the NSF National Center for Atmospheric Research, which is a major facility sponsored by the U.S. National Science Foundation under Cooperative Agreement No. 1852977.</gco:CharacterString>
-            </gmd:credit>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
                     <gmd:individualName>
@@ -383,8 +380,28 @@
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_f6f1df9c-6210-4e90-b1df-9c62100e90f3">
+                                <gml:TimePeriod gml:id="tp_1221c33f-964e-465b-a1c3-3f964ee65b8d">
                                     <gml:beginPosition>2006-09-08T12:00:00</gml:beginPosition>
+                                    <gml:endPosition>2006-09-13T18:00:00</gml:endPosition>
+                                </gml:TimePeriod>
+                            </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                    </gmd:temporalElement>
+                    <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                            <gmd:extent>
+                                <gml:TimePeriod gml:id="tp_95b83f57-e689-456d-b83f-57e689856d85">
+                                    <gml:beginPosition>2006-09-05T00:00:00</gml:beginPosition>
+                                    <gml:endPosition>2006-09-13T18:00:00</gml:endPosition>
+                                </gml:TimePeriod>
+                            </gmd:extent>
+                        </gmd:EX_TemporalExtent>
+                    </gmd:temporalElement>
+                    <gmd:temporalElement>
+                        <gmd:EX_TemporalExtent>
+                            <gmd:extent>
+                                <gml:TimePeriod gml:id="tp_fdc233cb-2feb-4f16-8233-cb2febff16d9">
+                                    <gml:beginPosition>2006-09-06T00:00:00</gml:beginPosition>
                                     <gml:endPosition>2006-09-13T18:00:00</gml:endPosition>
                                 </gml:TimePeriod>
                             </gmd:extent>
