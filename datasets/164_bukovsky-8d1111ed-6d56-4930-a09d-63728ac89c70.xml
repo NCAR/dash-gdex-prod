@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-07-21T11:52:12-06:00</gco:DateTime>
+        <gco:DateTime>2024-04-24T08:30:56-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -76,7 +76,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-02-09</gco:Date>
+                                <gco:Date>2024-04-24</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -86,7 +86,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2021-01-12</gco:Date>
+                                <gco:Date>2024-04-17</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -176,14 +176,6 @@
                     </gmd:role>
                 </gmd:CI_ResponsibleParty>
             </gmd:pointOfContact>
-            <gmd:resourceFormat>
-                <gmd:MD_Format>
-                    <gmd:name>
-                        <gco:CharacterString>Gzip Compressed Archive (application/gzip)</gco:CharacterString>
-                    </gmd:name>
-                    <gmd:version gco:nilReason="unknown"/>
-                </gmd:MD_Format>
-            </gmd:resourceFormat>
             <gmd:resourceFormat>
                 <gmd:MD_Format>
                     <gmd:name>
@@ -370,7 +362,7 @@
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_d6c49c04-e941-429e-bba5-554ea766b0b5">
+                                <gml:TimePeriod gml:id="tp_4c331734-f22f-43f8-b317-34f22f03f858">
                                     <gml:beginPosition>1980-01-01</gml:beginPosition>
                                     <gml:endPosition>2100-12-31</gml:endPosition>
                                 </gml:TimePeriod>
@@ -385,14 +377,6 @@
 
     <gmd:distributionInfo>
         <gmd:MD_Distribution>
-            <gmd:distributionFormat>
-                <gmd:MD_Format>
-                    <gmd:name>
-                        <gco:CharacterString>Gzip Compressed Archive (application/gzip)</gco:CharacterString>
-                    </gmd:name>
-                    <gmd:version gco:nilReason="unknown"/>
-                </gmd:MD_Format>
-            </gmd:distributionFormat>
             <gmd:distributionFormat>
                 <gmd:MD_Format>
                     <gmd:name>

@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-07-21T12:11:03-06:00</gco:DateTime>
+        <gco:DateTime>2024-04-24T11:29:05-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -99,7 +99,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-07-14</gco:Date>
+                                <gco:Date>2024-04-24</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
@@ -109,7 +109,7 @@
                     <gmd:date>
                         <gmd:CI_Date>
                             <gmd:date>
-                                <gco:Date>2022-07-14</gco:Date>
+                                <gco:Date>2024-04-24</gco:Date>
                             </gmd:date>
                             <gmd:dateType>
                                 <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="modified">modified</gmd:CI_DateTypeCode>
@@ -222,7 +222,7 @@
             <gmd:resourceFormat>
                 <gmd:MD_Format>
                     <gmd:name>
-                        <gco:CharacterString>Gzip Compressed Archive (application/gzip)</gco:CharacterString>
+                        <gco:CharacterString>application/x-netcdf</gco:CharacterString>
                     </gmd:name>
                     <gmd:version gco:nilReason="unknown"/>
                 </gmd:MD_Format>
@@ -367,7 +367,7 @@
                     <gmd:temporalElement>
                         <gmd:EX_TemporalExtent>
                             <gmd:extent>
-                                <gml:TimePeriod gml:id="tp_23916cbf-d08c-409f-bc32-ca48c908db65">
+                                <gml:TimePeriod gml:id="tp_5896b627-51f6-4673-96b6-2751f6b673c6">
                                     <gml:beginPosition>1870-01</gml:beginPosition>
                                     <gml:endPosition>2022-06</gml:endPosition>
                                 </gml:TimePeriod>
@@ -385,7 +385,7 @@
             <gmd:distributionFormat>
                 <gmd:MD_Format>
                     <gmd:name>
-                        <gco:CharacterString>Gzip Compressed Archive (application/gzip)</gco:CharacterString>
+                        <gco:CharacterString>application/x-netcdf</gco:CharacterString>
                     </gmd:name>
                     <gmd:version gco:nilReason="unknown"/>
                 </gmd:MD_Format>
