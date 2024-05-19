@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2024-05-13T13:46:30-06:00</gco:DateTime>
+        <gco:DateTime>2024-05-18T13:38:03-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -126,17 +126,17 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Theodore W. Letcher</gco:CharacterString>
+                                <gco:CharacterString>Arezoo RafieeiNasab</gco:CharacterString>
                             </gmd:individualName>
                             <gmd:organisationName>
-                                <gco:CharacterString>Army Corps of Engineers - Cold Regions Research and Engineering Lab</gco:CharacterString>
+                                <gco:CharacterString>UCAR/NCAR - Research Applications Laboratory</gco:CharacterString>
                             </gmd:organisationName>
                             <gmd:contactInfo>
                                 <gmd:CI_Contact>
                                     <gmd:address>
                                         <gmd:CI_Address>
                                             <gmd:electronicMailAddress>
-                                                <gco:CharacterString>Theodore.W.Letcher@erdc.dren.mi</gco:CharacterString>
+                                                <gco:CharacterString>arezoo@ucar.edu</gco:CharacterString>
                                             </gmd:electronicMailAddress>
                                         </gmd:CI_Address>
                                     </gmd:address>
@@ -150,17 +150,17 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Arezoo RafieeiNasab</gco:CharacterString>
+                                <gco:CharacterString>Theodore W. Letcher</gco:CharacterString>
                             </gmd:individualName>
                             <gmd:organisationName>
-                                <gco:CharacterString>UCAR/NCAR - Research Applications Laboratory</gco:CharacterString>
+                                <gco:CharacterString>Army Corps of Engineers - Cold Regions Research and Engineering Lab</gco:CharacterString>
                             </gmd:organisationName>
                             <gmd:contactInfo>
                                 <gmd:CI_Contact>
                                     <gmd:address>
                                         <gmd:CI_Address>
                                             <gmd:electronicMailAddress>
-                                                <gco:CharacterString>arezoo@ucar.edu</gco:CharacterString>
+                                                <gco:CharacterString>Theodore.W.Letcher@erdc.dren.mi</gco:CharacterString>
                                             </gmd:electronicMailAddress>
                                         </gmd:CI_Address>
                                     </gmd:address>
