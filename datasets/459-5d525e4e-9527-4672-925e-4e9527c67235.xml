@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2024-02-05T14:08:26-07:00</gco:DateTime>
+        <gco:DateTime>2024-05-23T09:11:13-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -237,6 +237,14 @@ We run two different nudged cases: the volcano case with forcing (SO2 and H2O in
                     </gmd:role>
                 </gmd:CI_ResponsibleParty>
             </gmd:pointOfContact>
+            <gmd:resourceFormat>
+                <gmd:MD_Format>
+                    <gmd:name>
+                        <gco:CharacterString>Gzip Compressed Archive (application/gzip)</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:version gco:nilReason="unknown"/>
+                </gmd:MD_Format>
+            </gmd:resourceFormat>
             <gmd:resourceFormat>
                 <gmd:MD_Format>
                     <gmd:name>
@@ -433,6 +441,14 @@ We run two different nudged cases: the volcano case with forcing (SO2 and H2O in
 
     <gmd:distributionInfo>
         <gmd:MD_Distribution>
+            <gmd:distributionFormat>
+                <gmd:MD_Format>
+                    <gmd:name>
+                        <gco:CharacterString>Gzip Compressed Archive (application/gzip)</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:version gco:nilReason="unknown"/>
+                </gmd:MD_Format>
+            </gmd:distributionFormat>
             <gmd:distributionFormat>
                 <gmd:MD_Format>
                     <gmd:name>
