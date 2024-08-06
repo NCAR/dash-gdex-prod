@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2024-07-30T14:23:42-06:00</gco:DateTime>
+        <gco:DateTime>2024-08-05T10:53:13-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -136,30 +136,6 @@
                             </gmd:role>
                         </gmd:CI_ResponsibleParty>
                     </gmd:citedResponsibleParty>
-                    <gmd:citedResponsibleParty>
-                        <gmd:CI_ResponsibleParty>
-                            <gmd:individualName>
-                                <gco:CharacterString>Ben Johnson</gco:CharacterString>
-                            </gmd:individualName>
-                            <gmd:organisationName>
-                                <gco:CharacterString>UCAR/NCAR - Computational and Information Systems Laboratory</gco:CharacterString>
-                            </gmd:organisationName>
-                            <gmd:contactInfo>
-                                <gmd:CI_Contact>
-                                    <gmd:address>
-                                        <gmd:CI_Address>
-                                            <gmd:electronicMailAddress>
-                                                <gco:CharacterString>johnsonb@ucar.edu</gco:CharacterString>
-                                            </gmd:electronicMailAddress>
-                                        </gmd:CI_Address>
-                                    </gmd:address>
-                                </gmd:CI_Contact>
-                            </gmd:contactInfo>
-                            <gmd:role>
-                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
-                            </gmd:role>
-                        </gmd:CI_ResponsibleParty>
-                    </gmd:citedResponsibleParty>
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
@@ -171,7 +147,7 @@
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
                     <gmd:individualName>
-                        <gco:CharacterString>Ben Johnson</gco:CharacterString>
+                        <gco:CharacterString>NSF NCAR - Data Assimilation Research Section</gco:CharacterString>
                     </gmd:individualName>
                     <gmd:organisationName>
                         <gco:CharacterString>UCAR/NCAR - Computational and Information Systems Laboratory</gco:CharacterString>
@@ -181,7 +157,7 @@
                             <gmd:address>
                                 <gmd:CI_Address>
                                     <gmd:electronicMailAddress>
-                                        <gco:CharacterString>johnsonb@ucar.edu</gco:CharacterString>
+                                        <gco:CharacterString>dart@ucar.edu</gco:CharacterString>
                                     </gmd:electronicMailAddress>
                                 </gmd:CI_Address>
                             </gmd:address>
