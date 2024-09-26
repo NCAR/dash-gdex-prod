@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2024-09-24T11:22:42-06:00</gco:DateTime>
+        <gco:DateTime>2024-09-25T09:52:52-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -127,6 +127,45 @@
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
                                 <gco:CharacterString>Pedro Jimenez Munoz</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:organisationName>
+                                <gco:CharacterString>UCAR/NCAR - Research Applications Laboratory</gco:CharacterString>
+                            </gmd:organisationName>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Rajesh Kumar</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:organisationName>
+                                <gco:CharacterString>UCAR/NCAR - Research Applications Laboratory</gco:CharacterString>
+                            </gmd:organisationName>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Cenlin He</gco:CharacterString>
+                            </gmd:individualName>
+                            <gmd:organisationName>
+                                <gco:CharacterString>UCAR/NCAR - Research Applications Laboratory</gco:CharacterString>
+                            </gmd:organisationName>
+                            <gmd:role>
+                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
+                            </gmd:role>
+                        </gmd:CI_ResponsibleParty>
+                    </gmd:citedResponsibleParty>
+                    <gmd:citedResponsibleParty>
+                        <gmd:CI_ResponsibleParty>
+                            <gmd:individualName>
+                                <gco:CharacterString>Jared Lee</gco:CharacterString>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>UCAR/NCAR - Research Applications Laboratory</gco:CharacterString>
