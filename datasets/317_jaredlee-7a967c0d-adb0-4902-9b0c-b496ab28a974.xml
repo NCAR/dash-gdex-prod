@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-08-03T14:26:24-06:00</gco:DateTime>
+        <gco:DateTime>2024-10-08T13:44:10-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -274,7 +274,7 @@
             <gmd:abstract>
                 <gco:CharacterString>This dataset is fully described in and is a companion of Lee et al. (2022):
 
-Lee, J. A., P. A. Jiménez, J. Dudhia, and Y.-M. Saint-Drenan, 2022: Impacts of the aerosol representation in WRF-Solar clear-sky irradiance forecasts over CONUS. J. Appl. Meteor. Climatol., conditionally accepted and in revision.
+Lee, J. A., P. A. Jiménez, J. Dudhia, and Y.-M. Saint-Drenan, 2023: Impacts of the aerosol representation in WRF-Solar clear-sky irradiance forecasts over CONUS. J. Appl. Meteor. Climatol., 62, 227–250, https://doi.org/10.1175/JAMC-D-22-0059.1.
 
 Aerosol optical depth (AOD) is a primary source of solar irradiance forecast error in clear-sky conditions. Improving the accuracy of AOD in NWP models like WRF will thus reduce error in both direct normal irradiance (DNI) and global horizontal irradiance (GHI), which should improve solar power forecast errors, at least in cloud-free conditions. In this study clear-sky GHI and DNI was analyzed from four configurations of the WRF-Solar model with different aerosol representations: 1) The default Tegen climatology; 2) Imposing AOD forecasts from the GEOS-5 model; 3) Imposing AOD forecasts from the Copernicus Atmosphere Monitoring Service (CAMS) model; and 4) The Thompson-Eidhammer aerosol-aware water/ice-friendly aerosol climatology. Over eight months of these 15-min output forecasts are compared against high-quality irradiance observations at NOAA SURFRAD and Solar Radiation (SOLRAD) stations located across CONUS. In general, WRF-Solar with GEOS-5 AOD had the lowest errors in clear-sky DNI, while WRF-Solar with CAMS AOD had the highest errors, higher even than the two aerosol climatologies, which is consistent with validation of the four AOD550 datasets against AERONET stations. For clear-sky GHI, the statistics differed little between the four models, as expected due to the lesser sensitivity of GHI to aerosol loading. Hourly-average clear-sky DNI and GHI was also analyzed, and additionally compared with CAMS model output directly. CAMS irradiance performed competitively with the best WRF-Solar configuration (with GEOS-5 AOD). The markedly different performance of CAMS versus WRF-Solar with CAMS AOD indicates that CAMS is apparently less sensitive to AOD550 than WRF-Solar is.
 

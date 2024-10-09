@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2023-12-27T11:03:25-07:00</gco:DateTime>
+        <gco:DateTime>2024-10-08T13:44:29-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -189,7 +189,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>This dataset supports the journal article, &quot;Impact of direct insertion of SMAP soil moisture retrievals in WRF-Chem for dust storm events in the western U.S.&quot; by Jared A. Lee, Pedro A. Jiménez, Rajesh Kumar, and Cenlin He, which has been conditionally accepted by Atmospheric Environment and is in revision as of Dec 2023.
+                <gco:CharacterString>This dataset supports the journal article: Lee, J. A., P. A. Jiménez, R. Kumar, and C. He, 2024: Impact of direct insertion of SMAP soil moisture retrievals in WRF-Chem for dust storm events in the western U.S. Atmos. Environ., 321, 120349, https://doi.org/10.1016/j.atmosenv.2024.120349.
 
 In that study, eight dust storms in the western U.S. from 2015–2021 were simulated with the WRF-Chem model at 9-km grid spacing, with one simulation directly inserting soil moisture retrievals from the Soil Moisture Active Passive (SMAP) satellite into WRF-Chem (&quot;Insert SMAP&quot;), and the other leaving the WRF-Chem soil moisture field uncorrected (&quot;No SMAP&quot;). Model simulations were validated against ASOS METAR observations of 10-m wind speed, U.S. Climate Reference Network (USCRN) observations of soil moisture content, Aerosol Robotic Network (AERONET) retrievals of aerosol optical depth (AOD), and Moderate Resolution Imaging Spectroradiometer (MODIS) retrievals of AOD.
 
