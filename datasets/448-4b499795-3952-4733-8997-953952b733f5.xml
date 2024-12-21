@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2024-04-01T21:47:27-06:00</gco:DateTime>
+        <gco:DateTime>2024-12-20T14:06:25-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -65,6 +65,29 @@
         <gco:CharacterString>https://doi.org/10.5065/wfzv-nx43</gco:CharacterString>
     </gmd:dataSetURI>
 
+    <gmd:metadataExtensionInfo>
+        <gmd:MD_MetadataExtensionInformation>
+            <gmd:extensionOnLineResource>
+                <gmd:CI_OnlineResource>
+                    <gmd:linkage>
+                        <gmd:URL>https://doi.org/10.1029/2024GL112341</gmd:URL>
+                    </gmd:linkage>
+                    <gmd:protocol>
+                        <gco:CharacterString>https</gco:CharacterString>
+                    </gmd:protocol>
+                    <gmd:applicationProfile>
+                        <gco:CharacterString>browser</gco:CharacterString>
+                    </gmd:applicationProfile>
+                    <gmd:name>
+                        <gco:CharacterString>The effect of pseudo-global warming on the weather-climate system of Africa in a convection-permitting model</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:description>
+                        <gco:CharacterString></gco:CharacterString>
+                    </gmd:description>
+                </gmd:CI_OnlineResource>
+            </gmd:extensionOnLineResource>
+        </gmd:MD_MetadataExtensionInformation>
+    </gmd:metadataExtensionInfo>
 
     <gmd:identificationInfo>
         <gmd:MD_DataIdentification>
@@ -174,7 +197,11 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>The dataset includes post-processed model outputs from regional configuration simulations (control and PGW) using the MPAS-A version 8.0.1. This is the first dataset publicly available that uses regional MPAS in combination with the PGW approach to study future climate in short time scales. The Limited-Area domain encompasses 30°S to 51°N and 3-km horizontal grid outputs, the post-processed outputs available here were interpolated to a 0.25-degree by 0.25-degree latitude-by-longitude grid and 27 isobaric levels (in the vertical). More details of the data and analysis are available in the following preprint submitted for publication in Geophysical Research Letters (GRL): https://essopenarchive.org/doi/pdf/10.22541/essoar.171052487.74353361. The namelist files to run the model, as well as a README file, are also included in this repository.</gco:CharacterString>
+                <gco:CharacterString>The dataset includes post-processed model outputs from regional configuration simulations (control and PGW) using the MPAS-A version 8.0.1. This is the first dataset publicly available that uses regional MPAS in combination with the PGW approach to study future climate in short time scales. The Limited-Area domain encompasses 30°S to 51°N and 3-km horizontal grid outputs, the post-processed outputs available here were interpolated to a 0.25-degree by 0.25-degree latitude-by-longitude grid and 27 isobaric levels (in the vertical). The namelist files to run the model, as well as a README file, are also included in this repository.
+
+More details of the data and analysis are published in the Geophysical Research Letters (GRL): Núñez Ocasio and Dougherty, 2024: https://doi.org/10.1029/2024GL112341
+
+Núñez Ocasio, K. M., &amp;amp; Dougherty, E. M. (2024). The effect of pseudo-global warming on the weather-climate system of Africa in a convection-permitting model. Geophysical Research Letters, 51, e2024GL112341. https://doi.org/10.1029/2024GL112341</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>

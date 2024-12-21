@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2024-10-30T11:44:33-06:00</gco:DateTime>
+        <gco:DateTime>2024-12-20T15:30:00-07:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -191,7 +191,27 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>The WRF-Hydro hydrological model has been used in many applications in the past with some level of history matching in the majority of these studies. In this study, we use the iterative Ensemble Smoother (iES), a powerful parameter estimation methodology implemented in the open-source PEST++ software. The iES provides an ensemble solution with an uncertainty bound instead of a single best estimate which has been the common approach in the previous WRF-Hydro studies. We discuss the importance of accounting for observation noise which results in a wider spread in the model solution. We investigate the impact of constructing objective functions by differentially weighting the observations to tune the model response toward model outputs appropriate for a specific application. Results confirm the necessity of differentially weighting the observations before calculation of the objective function as the optimization algorithm struggles with calculating parameter updates with uniform weighting. We also show that we achieve better model performance in terms of verification metrics with higher emphasis on the high flow events, when the objective function is tuned toward an application where the extreme events are of importance. We then investigate the impact of estimating more parameters, where we estimate a larger number of snow parameters. Results show a large improvement in the model performance. In summary, our study demonstrates the efficacy of employing iES alongside differential weighting of observations, highlighting its potential to enhance hydrological model parameter estimation.</gco:CharacterString>
+                <gco:CharacterString>The WRF-Hydro hydrological model has been used in many applications in the past with some level of history matching in the majority of these studies. In this study, we use the iterative Ensemble Smoother (iES), a powerful parameter estimation methodology implemented in the open-source PEST++ software. The iES provides an ensemble solution with an uncertainty bound instead of a single best estimate which has been the common approach in the previous WRF-Hydro studies. We discuss the importance of accounting for observation noise which results in a wider spread in the model solution. We investigate the impact of constructing objective functions by differentially weighting the observations to tune the model response toward model outputs appropriate for a specific application. Results confirm the necessity of differentially weighting the observations before calculation of the objective function as the optimization algorithm struggles with calculating parameter updates with uniform weighting. We also show that we achieve better model performance in terms of verification metrics with higher emphasis on the high flow events, when the objective function is tuned toward an application where the extreme events are of importance. We then investigate the impact of estimating more parameters, where we estimate a larger number of snow parameters. Results show a large improvement in the model performance. In summary, our study demonstrates the efficacy of employing iES alongside differential weighting of observations, highlighting its potential to enhance hydrological model parameter estimation.
+
+This release of data and workflows has been prepared in support of the publication “Ensemble Methods for Parameter Estimation of WRF-Hydro” submitted to the Water Resources Research and is organized as follows. 
+* src: The source code used for running the coupled PEST++ and WRFHydro model on NCAR supercomputer Cheyenne and Derecho. 
+* Prototype_runs: This folder contains all the input domains used in this study, outputs of the calibration using PEST++ and the notebooks used to analyze the outputs. 
+
+Under the Prototype_runs directory, there are several folders described below. 
+* DOMAIN: contains the WRF-Hydro domains for the basins of interest used in the manuscript with the default parameters. The atmospheric forcing for each basin also resides under the domain directory, as well as the streamflow observation (with and without noise). 
+* NWM_calibration: FullRouting_best_parameters.csv file contains the results of the NWMv3.0 calibration and the file best_params_09221100.Rdata contains the result of the single gauge 09221100 which was calibrated as part of this study using DDS. 
+* Run_data: contains results of calibrating WRF-Hydro using PEST++ for different experiments. 
+    ** 1_Single_Model_Run: outputs of running PEST++ with option noptmax=0, which runs a single model simulation for the period of interest. 
+    ** 2_MC_Run: outputs of the prior Monte Carlo simulation for each domain, note the gauge 09112200 has three MC runs due to using different parameters per each experiment. 
+    ** 3_IES : final outputs of WRF-Hydro calibration using PEST++ (iES optimization algorithm) which is organized based on the order of experiments discussed in the manuscript: 
+        *** 1_obs_ensemble_noise  
+        *** 2_weighting_observation  
+        *** 3_refining_objective_function  
+        *** 4_expanding_estimation_parameters
+ * Notebooks: contains a sample notebook on how to prepare the differentially weighted observations and performing rejection sampling based on the single model run and the Monte Carlo simulation. It also contains notebooks analyzing the history matching results in preparation of the manuscript. One would be able to replicate the figures used in the paper using these notebooks. Each notebook is focused on verification of an experiment with the order laid out in the manuscript. 
+ * Dependencies: contains some dependency libraries for the notebooks. 
+ * Scripts: contains a script used in the notebooks. 
+ * Outputs: the outputs of running the notebooks will be saved in this directory.</gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
                 <gmd:CI_ResponsibleParty>
@@ -217,6 +237,22 @@
                     </gmd:role>
                 </gmd:CI_ResponsibleParty>
             </gmd:pointOfContact>
+            <gmd:resourceFormat>
+                <gmd:MD_Format>
+                    <gmd:name>
+                        <gco:CharacterString>Portable Document Format (application/pdf)</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:version gco:nilReason="unknown"/>
+                </gmd:MD_Format>
+            </gmd:resourceFormat>
+            <gmd:resourceFormat>
+                <gmd:MD_Format>
+                    <gmd:name>
+                        <gco:CharacterString>Gzip Compressed Archive (application/gzip)</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:version gco:nilReason="unknown"/>
+                </gmd:MD_Format>
+            </gmd:resourceFormat>
 
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
@@ -286,6 +322,22 @@
 
     <gmd:distributionInfo>
         <gmd:MD_Distribution>
+            <gmd:distributionFormat>
+                <gmd:MD_Format>
+                    <gmd:name>
+                        <gco:CharacterString>Portable Document Format (application/pdf)</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:version gco:nilReason="unknown"/>
+                </gmd:MD_Format>
+            </gmd:distributionFormat>
+            <gmd:distributionFormat>
+                <gmd:MD_Format>
+                    <gmd:name>
+                        <gco:CharacterString>Gzip Compressed Archive (application/gzip)</gco:CharacterString>
+                    </gmd:name>
+                    <gmd:version gco:nilReason="unknown"/>
+                </gmd:MD_Format>
+            </gmd:distributionFormat>
             <gmd:distributor>
                 <gmd:MD_Distributor>
                     <gmd:distributorContact>
