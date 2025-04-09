@@ -149,7 +149,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Kelly M. Núñez Ocasio</gco:CharacterString>
+                                <gmx:Anchor xlink:href="http://orcid.org/0000-0003-0473-9382" xlink:title="ORCID Researcher ID" xlink:actuate="onRequest">Kelly M. Núñez Ocasio</gmx:Anchor>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>UCAR/NCAR - Mesoscale and Microscale Meteorology Laboratory</gco:CharacterString>
@@ -173,7 +173,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Erin M. Dougherty</gco:CharacterString>
+                                <gmx:Anchor xlink:href="http://orcid.org/0000-0002-8448-3673" xlink:title="ORCID Researcher ID" xlink:actuate="onRequest">Erin M. Dougherty</gmx:Anchor>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>UCAR/NCAR - Research Applications Laboratory</gco:CharacterString>

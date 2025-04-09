@@ -126,7 +126,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Nicholas Pedatella</gco:CharacterString>
+                                <gmx:Anchor xlink:href="http://orcid.org/0000-0002-8878-5126" xlink:title="ORCID Researcher ID" xlink:actuate="onRequest">Nicholas Pedatella</gmx:Anchor>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>UCAR/NCAR - High Altitude Observatory</gco:CharacterString>

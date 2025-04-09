@@ -126,7 +126,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Arezoo RafieeiNasab</gco:CharacterString>
+                                <gmx:Anchor xlink:href="http://orcid.org/0000-0001-8557-107X" xlink:title="ORCID Researcher ID" xlink:actuate="onRequest">Arezoo RafieeiNasab</gmx:Anchor>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>UCAR/NCAR - Research Applications Laboratory</gco:CharacterString>
@@ -150,7 +150,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Theodore W. Letcher</gco:CharacterString>
+                                <gmx:Anchor xlink:href="http://orcid.org/0000-0001-6841-083X" xlink:title="ORCID Researcher ID" xlink:actuate="onRequest">Theodore W. Letcher</gmx:Anchor>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>Army Corps of Engineers - Cold Regions Research and Engineering Lab</gco:CharacterString>
@@ -174,7 +174,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Justin R. Minder</gco:CharacterString>
+                                <gmx:Anchor xlink:href="http://orcid.org/0000-0001-7182-7898" xlink:title="ORCID Researcher ID" xlink:actuate="onRequest">Justin R. Minder</gmx:Anchor>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>State University of New York at Albany</gco:CharacterString>

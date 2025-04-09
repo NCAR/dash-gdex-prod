@@ -126,7 +126,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Sean Swenson</gco:CharacterString>
+                                <gmx:Anchor xlink:href="http://orcid.org/0000-0002-2923-1203" xlink:title="ORCID Researcher ID" xlink:actuate="onRequest">Sean Swenson</gmx:Anchor>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>UCAR/NCAR - Climate and Global Dynamics Laboratory</gco:CharacterString>
@@ -139,7 +139,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Dave Lawrence</gco:CharacterString>
+                                <gmx:Anchor xlink:href="http://orcid.org/0000-0002-2968-3023" xlink:title="ORCID Researcher ID" xlink:actuate="onRequest">Dave Lawrence</gmx:Anchor>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>UCAR/NCAR - Climate and Global Dynamics Laboratory</gco:CharacterString>

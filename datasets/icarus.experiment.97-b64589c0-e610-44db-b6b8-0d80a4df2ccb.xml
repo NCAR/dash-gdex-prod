@@ -174,7 +174,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Wennberg, Paul</gco:CharacterString>
+                                <gmx:Anchor xlink:href="http://orcid.org/0000-0002-6126-3854" xlink:title="ORCID Researcher ID" xlink:actuate="onRequest">Wennberg, Paul</gmx:Anchor>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>2014 FIXCIT Study</gco:CharacterString>
@@ -198,7 +198,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Seinfeld, John</gco:CharacterString>
+                                <gmx:Anchor xlink:href="http://orcid.org/0000-0003-1344-4068" xlink:title="ORCID Researcher ID" xlink:actuate="onRequest">Seinfeld, John</gmx:Anchor>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>2014 FIXCIT Study</gco:CharacterString>
@@ -222,7 +222,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Crounse, John</gco:CharacterString>
+                                <gmx:Anchor xlink:href="http://orcid.org/0000-0001-5443-729X" xlink:title="ORCID Researcher ID" xlink:actuate="onRequest">Crounse, John</gmx:Anchor>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>2014 FIXCIT Study</gco:CharacterString>
@@ -246,7 +246,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Nguyen, Tran</gco:CharacterString>
+                                <gmx:Anchor xlink:href="http://orcid.org/0000-0001-9206-4359" xlink:title="ORCID Researcher ID" xlink:actuate="onRequest">Nguyen, Tran</gmx:Anchor>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>2014 FIXCIT Study</gco:CharacterString>

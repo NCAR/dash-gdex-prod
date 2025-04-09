@@ -126,7 +126,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Jared Lee</gco:CharacterString>
+                                <gmx:Anchor xlink:href="http://orcid.org/0000-0002-8841-0738" xlink:title="ORCID Researcher ID" xlink:actuate="onRequest">Jared Lee</gmx:Anchor>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>UCAR/NCAR - Research Applications Laboratory</gco:CharacterString>
@@ -163,7 +163,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Cenlin He</gco:CharacterString>
+                                <gmx:Anchor xlink:href="http://orcid.org/0000-0002-7367-2815" xlink:title="ORCID Researcher ID" xlink:actuate="onRequest">Cenlin He</gmx:Anchor>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>UCAR/NCAR - Research Applications Laboratory</gco:CharacterString>
@@ -176,7 +176,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Rajesh Kumar</gco:CharacterString>
+                                <gmx:Anchor xlink:href="http://orcid.org/0000-0002-3135-9556" xlink:title="ORCID Researcher ID" xlink:actuate="onRequest">Rajesh Kumar</gmx:Anchor>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>UCAR/NCAR - Research Applications Laboratory</gco:CharacterString>

@@ -128,7 +128,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Ng, Nga (Sally)</gco:CharacterString>
+                                <gmx:Anchor xlink:href="http://orcid.org/0000-0001-8460-4765" xlink:title="ORCID Researcher ID" xlink:actuate="onRequest">Ng, Nga (Sally)</gmx:Anchor>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>Ng Research Group</gco:CharacterString>

@@ -126,7 +126,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Jun Zhang</gco:CharacterString>
+                                <gmx:Anchor xlink:href="http://orcid.org/0000-0003-2020-9322" xlink:title="ORCID Researcher ID" xlink:actuate="onRequest">Jun Zhang</gmx:Anchor>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>UCAR/NCAR - Atmospheric Chemistry Observations and Modeling Laboratory</gco:CharacterString>

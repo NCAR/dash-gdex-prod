@@ -126,7 +126,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Dong Lin</gco:CharacterString>
+                                <gmx:Anchor xlink:href="http://orcid.org/0000-0003-2894-6677" xlink:title="ORCID Researcher ID" xlink:actuate="onRequest">Dong Lin</gmx:Anchor>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>UCAR/NCAR - High Altitude Observatory</gco:CharacterString>
@@ -150,7 +150,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Wenbin Wang</gco:CharacterString>
+                                <gmx:Anchor xlink:href="http://orcid.org/0000-0002-6287-4542" xlink:title="ORCID Researcher ID" xlink:actuate="onRequest">Wenbin Wang</gmx:Anchor>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>UCAR/NCAR - High Altitude Observatory</gco:CharacterString>
@@ -174,7 +174,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Mei-Ching Fok</gco:CharacterString>
+                                <gmx:Anchor xlink:href="http://orcid.org/0000-0001-9500-866X" xlink:title="ORCID Researcher ID" xlink:actuate="onRequest">Mei-Ching Fok</gmx:Anchor>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>NASA Goddard Space Flight Center</gco:CharacterString>
@@ -198,7 +198,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Kevin Pham</gco:CharacterString>
+                                <gmx:Anchor xlink:href="http://orcid.org/0000-0001-5031-5519" xlink:title="ORCID Researcher ID" xlink:actuate="onRequest">Kevin Pham</gmx:Anchor>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>UCAR/NCAR - High Altitude Observatory</gco:CharacterString>
@@ -222,7 +222,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Jia Yue</gco:CharacterString>
+                                <gmx:Anchor xlink:href="http://orcid.org/0000-0003-0577-5289" xlink:title="ORCID Researcher ID" xlink:actuate="onRequest">Jia Yue</gmx:Anchor>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>NASA Goddard Space Flight Center</gco:CharacterString>

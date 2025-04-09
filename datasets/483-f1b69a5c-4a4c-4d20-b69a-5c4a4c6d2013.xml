@@ -126,7 +126,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Who Kim</gco:CharacterString>
+                                <gmx:Anchor xlink:href="http://orcid.org/0000-0001-5754-9852" xlink:title="ORCID Researcher ID" xlink:actuate="onRequest">Who Kim</gmx:Anchor>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>UCAR/NCAR - Climate and Global Dynamics Laboratory</gco:CharacterString>

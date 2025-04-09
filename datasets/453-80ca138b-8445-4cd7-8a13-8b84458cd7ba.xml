@@ -126,7 +126,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Melissa Moulton</gco:CharacterString>
+                                <gmx:Anchor xlink:href="http://orcid.org/0000-0002-8899-0437" xlink:title="ORCID Researcher ID" xlink:actuate="onRequest">Melissa Moulton</gmx:Anchor>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>UCAR/NCAR - Climate and Global Dynamics Laboratory</gco:CharacterString>
@@ -150,7 +150,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Joseph Zambon</gco:CharacterString>
+                                <gmx:Anchor xlink:href="http://orcid.org/0000-0001-5525-0179" xlink:title="ORCID Researcher ID" xlink:actuate="onRequest">Joseph Zambon</gmx:Anchor>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>North Carolina State University</gco:CharacterString>
@@ -163,7 +163,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>John Warner</gco:CharacterString>
+                                <gmx:Anchor xlink:href="http://orcid.org/0000-0002-3734-8903" xlink:title="ORCID Researcher ID" xlink:actuate="onRequest">John Warner</gmx:Anchor>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>United States Geological Survey</gco:CharacterString>
