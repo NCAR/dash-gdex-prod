@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2023-08-03T11:13:44-06:00</gco:DateTime>
+        <gco:DateTime>2025-04-18T11:14:28-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -126,7 +126,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Katya Jay</gco:CharacterString>
+                                <gmx:Anchor xlink:href="http://orcid.org/0000-0002-5098-3485" xlink:title="ORCID Researcher ID" xlink:actuate="onRequest">Katya Jay</gmx:Anchor>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>Institute of Arctic and Alpine Research - University of Colorado Boulder</gco:CharacterString>
@@ -150,7 +150,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>William R. Wieder</gco:CharacterString>
+                                <gmx:Anchor xlink:href="http://orcid.org/0000-0001-7116-1985" xlink:title="ORCID Researcher ID" xlink:actuate="onRequest">William R. Wieder</gmx:Anchor>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>UCAR/NCAR - Climate and Global Dynamics Laboratory</gco:CharacterString>
