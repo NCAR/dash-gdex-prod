@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-07-21T11:49:53-06:00</gco:DateTime>
+        <gco:DateTime>2025-05-02T13:58:58-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -128,7 +128,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Krumhardt, K. M.</gco:CharacterString>
+                                <gmx:Anchor xlink:href="http://orcid.org/0000-0002-8980-056X" xlink:title="ORCID Researcher ID" xlink:actuate="onRequest">Krumhardt, K. M.</gmx:Anchor>
                             </gmd:individualName>
                             <gmd:role>
                                 <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>
@@ -148,7 +148,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Long, M. C.</gco:CharacterString>
+                                <gmx:Anchor xlink:href="http://orcid.org/0000-0003-1273-2957" xlink:title="ORCID Researcher ID" xlink:actuate="onRequest">Long, M. C.</gmx:Anchor>
                             </gmd:individualName>
                             <gmd:role>
                                 <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author">author</gmd:CI_RoleCode>

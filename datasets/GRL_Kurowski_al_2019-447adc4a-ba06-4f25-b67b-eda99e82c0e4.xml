@@ -50,7 +50,7 @@
     </gmd:contact>
 
     <gmd:dateStamp>
-        <gco:DateTime>2022-01-12T11:05:49-07:00</gco:DateTime>
+        <gco:DateTime>2025-05-02T13:54:13-06:00</gco:DateTime>
     </gmd:dateStamp>
 
     <gmd:metadataStandardName>
@@ -128,7 +128,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Kurowski, Marcin J.</gco:CharacterString>
+                                <gmx:Anchor xlink:href="http://orcid.org/0000-0001-7010-4874" xlink:title="ORCID Researcher ID" xlink:actuate="onRequest">Kurowski, Marcin J.</gmx:Anchor>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>JPL</gco:CharacterString>
@@ -141,7 +141,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Suselj, Kay</gco:CharacterString>
+                                <gmx:Anchor xlink:href="http://orcid.org/0000-0002-8419-2198" xlink:title="ORCID Researcher ID" xlink:actuate="onRequest">Suselj, Kay</gmx:Anchor>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>JPL</gco:CharacterString>
@@ -154,7 +154,7 @@
                     <gmd:citedResponsibleParty>
                         <gmd:CI_ResponsibleParty>
                             <gmd:individualName>
-                                <gco:CharacterString>Grabowski, Wojciech W.</gco:CharacterString>
+                                <gmx:Anchor xlink:href="http://orcid.org/0000-0002-9496-4462" xlink:title="ORCID Researcher ID" xlink:actuate="onRequest">Grabowski, Wojciech W.</gmx:Anchor>
                             </gmd:individualName>
                             <gmd:organisationName>
                                 <gco:CharacterString>UCAR/NCAR - Mesoscale and Microscale Meteorology Laboratory</gco:CharacterString>
