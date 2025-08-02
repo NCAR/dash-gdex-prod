@@ -369,7 +369,7 @@ Vömel H., S. Evan, and M. Tully (2022): Water vapor injection into the stratosp
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
-                        <gco:CharacterString>Space-Based Platforms &gt; Earth Observation Satellites &gt; Ncep Gts &gt; National Centers For Environmental Prediction Global Telecommunications Systems</gco:CharacterString>
+                        <gco:CharacterString>SPACE-BASED PLATFORMS &gt; EARTH OBSERVATION SATELLITES &gt; NCEP GTS &gt; NATIONAL CENTERS FOR ENVIRONMENTAL PREDICTION GLOBAL TELECOMMUNICATIONS SYSTEMS</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:type>
                         <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
@@ -405,7 +405,7 @@ Vömel H., S. Evan, and M. Tully (2022): Water vapor injection into the stratosp
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
-                        <gco:CharacterString>Earth Remote Sensing Instruments &gt; Passive Remote Sensing &gt; Profilers/Sounders &gt; Radiosondes</gco:CharacterString>
+                        <gco:CharacterString>EARTH REMOTE SENSING INSTRUMENTS &gt; PASSIVE REMOTE SENSING &gt; PROFILERS/SOUNDERS &gt; RADIOSONDES</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:type>
                         <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>

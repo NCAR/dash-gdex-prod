@@ -369,13 +369,13 @@ These v2 data were created because we found errors in the values for latitude an
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
-                        <gco:CharacterString>Land-Based Platforms &gt; Permanent Land Sites &gt; Fixed Observation Stations &gt; Fixed Observation Stations</gco:CharacterString>
+                        <gco:CharacterString>LAND-BASED PLATFORMS &gt; PERMANENT LAND SITES &gt; FIXED OBSERVATION STATIONS &gt; FIXED OBSERVATION STATIONS</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:keyword>
-                        <gco:CharacterString>Land-Based Platforms &gt; Permanent Land Sites &gt; Ground-Based Observations &gt; Ground-Based Observations</gco:CharacterString>
+                        <gco:CharacterString>LAND-BASED PLATFORMS &gt; PERMANENT LAND SITES &gt; GROUND-BASED OBSERVATIONS &gt; GROUND-BASED OBSERVATIONS</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:keyword>
-                        <gco:CharacterString>Other &gt; Models &gt; Observation Based &gt; Observation Based Analyses</gco:CharacterString>
+                        <gco:CharacterString>OTHER &gt; MODELS &gt; OBSERVATION BASED &gt; OBSERVATION BASED ANALYSES</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:type>
                         <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>

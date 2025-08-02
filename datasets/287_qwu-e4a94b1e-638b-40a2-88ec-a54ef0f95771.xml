@@ -286,7 +286,7 @@
             <gmd:descriptiveKeywords>
                 <gmd:MD_Keywords>
                     <gmd:keyword>
-                        <gco:CharacterString>Space-Based Platforms &gt; Earth Observation Satellites &gt; Icon &gt; Ionospheric Connection Explorer</gco:CharacterString>
+                        <gco:CharacterString>SPACE-BASED PLATFORMS &gt; EARTH OBSERVATION SATELLITES &gt; ICON &gt; IONOSPHERIC CONNECTION EXPLORER</gco:CharacterString>
                     </gmd:keyword>
                     <gmd:type>
                         <gmd:MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
